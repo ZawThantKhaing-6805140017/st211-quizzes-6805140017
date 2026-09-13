@@ -1,0 +1,3 @@
+.venv/
+quiz-01/__pycache__/
+quiz-01/.pytest_cache/
