@@ -1,10 +1,16 @@
-Quiz 1 - Roman Numeral To Integer
+## Quiz 1 - Roman Numeral To Integer
 
-This program will turn roman numeral to integer with function named "convert"
+This program converts a Roman numeral to an integer using a function named convert.  
 
-!!Before running test file,please put last two lines to comment in main program!!
+> [!IMPORTANT]
+> Before running the test file, please comment out the last two lines in the main program
 
-Run: pytest -v test_roman_to_integer.py
+Run:  
 
-Output: test_convert PASSED (1 passed)
-
+```bash
+pytest -v test_roman_to_integer.py
+```
+Output: 
+```bash
+test_convert PASSED (1 passed)
+```
