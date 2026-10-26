@@ -12,3 +12,7 @@ quiz-05/.pytest_cache/
 quiz-06/__pycache__/
 quiz-06/.pytest_cache/
 param-lab/__pycache__/
+param-lab/.pytest_cache/
+__pycache__/
+mock-lab/__pycache__/
+mock-lab/.pytest_cache/
